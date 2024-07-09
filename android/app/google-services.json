@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "130794354324",
+    "firebase_url": "https://myflutterchat-1596f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "myflutterchat-1596f",
+    "storage_bucket": "myflutterchat-1596f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130794354324:android:b8b212efc965c4095b6681",
+        "android_client_info": {
+          "package_name": "com.example.my_flutte"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnzC5at-VHaKgj0F5q78qMzDGzZdB5Kbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130794354324:android:2561c1decbb9e5245b6681",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnzC5at-VHaKgj0F5q78qMzDGzZdB5Kbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
